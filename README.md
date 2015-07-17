@@ -7,4 +7,4 @@ See the package documentation [here](packages/session-var/README.md).
 
 # Install
 
-  meteor add dschnare:session-var
+  	meteor add dschnare:session-var
