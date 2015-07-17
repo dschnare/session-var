@@ -3,6 +3,11 @@
 A convenient ReactiveVar-like wrapper for session variables. This project contains the source for the [Meteor](https://www.meteor.com/) package session-var.
 
 
+# Install
+
+  meteor add dschnare:session-var
+
+
 # Usage
 
   // CLI
